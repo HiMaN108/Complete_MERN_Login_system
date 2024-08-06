@@ -3,6 +3,9 @@ import cors from 'cors';
 import morgan from 'morgan';
 import connect from './database/conn.js';
 import router from './router/route.js';
+import dotenv from "dotenv";
+
+dotenv.config();
 
 const app = express();
 
