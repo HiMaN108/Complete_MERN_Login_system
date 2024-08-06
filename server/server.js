@@ -15,7 +15,7 @@ app.disable('x-powered-by');  // less hacker know about out stack
 
 
 
-const port = 8080;
+const port = process.env.PORT || 8080;
 
 
 /**HTTP GET Request */
