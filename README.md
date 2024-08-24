@@ -11,11 +11,11 @@ Features
    Users can log in using their credentials.
 3.  Profile Management:
    Users can update and manage their profile information.
---> Password Reset:
+4. Password Reset:
    Users can reset their password securely using OTP verification.
---> OTP Verification:
+5. OTP Verification:
    Implemented using JWT tokens to ensure secure password recovery.
---> Email Functionality:
+6. Email Functionality:
    Sends verification and password recovery emails from the Node.js backend.
 
 
