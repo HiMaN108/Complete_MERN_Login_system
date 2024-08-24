@@ -5,11 +5,11 @@ The system includes essential features such as user login, registration, profile
 It also incorporates secure password recovery using OTP verification via JWT tokens and includes email functionality from the Node.js backend.
 
 Features
---> User Registration:
+ 1. User Registration:
    Allows new users to create an account with necessary details.
---> Login System:
+2. Login System:
    Users can log in using their credentials.
---> Profile Management:
+3.  Profile Management:
    Users can update and manage their profile information.
 --> Password Reset:
    Users can reset their password securely using OTP verification.
